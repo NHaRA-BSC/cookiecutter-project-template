@@ -20,6 +20,7 @@ When you create a new project using this template, the following folder structur
 - tests/: Unit tests and validation scripts for your project.
 - configs/: Configuration files like YAML or JSON for model settings, hyperparameters, etc.
 - logs/: Logs generated during the project execution.
+
 README.md: Documentation for your project.
 requirements.txt: A list of Python dependencies.
 Dockerfile: Containerization setup for the project (if needed).
