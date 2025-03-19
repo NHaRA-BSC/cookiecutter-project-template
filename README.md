@@ -10,6 +10,20 @@ The template includes predefined directories for data, notebooks, models, source
 
 When you create a new project using this template, the following folder structure will be generated:
 
+- data/: Stores
+    - raw
+    - processed
+- notebooks/: Jupyter notebooks for analysis and experiments.
+- utils/: Utility scripts for preprocessing and other tasks.
+- models/: Folder to store saved models and related outputs.
+- src/: Main source code for your project.
+- tests/: Unit tests and validation scripts for your project.
+- configs/: Configuration files like YAML or JSON for model settings, hyperparameters, etc.
+- logs/: Logs generated during the project execution.
+README.md: Documentation for your project.
+requirements.txt: A list of Python dependencies.
+Dockerfile: Containerization setup for the project (if needed).
+.gitignore: Common files to be ignored by version control (e.g., logs, virtual environments, IDE files).
 
 ## How to Use This Template
 
