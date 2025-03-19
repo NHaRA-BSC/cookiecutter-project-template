@@ -21,10 +21,10 @@ When you create a new project using this template, the following folder structur
 - configs/: Configuration files like YAML or JSON for model settings, hyperparameters, etc.
 - logs/: Logs generated during the project execution.
 
-README.md: Documentation for your project.\n
-requirements.txt: A list of Python dependencies.\n
-Dockerfile: Containerization setup for the project (if needed).\n
-.gitignore: Common files to be ignored by version control (e.g., logs, virtual environments, IDE files).\n
+README.md: Documentation for your project.<br>
+requirements.txt: A list of Python dependencies.<br>
+Dockerfile: Containerization setup for the project (if needed).<br>
+.gitignore: Common files to be ignored by version control (e.g., logs, virtual environments, IDE files).
 
 ## How to Use This Template
 
