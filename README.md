@@ -19,8 +19,6 @@ If you haven't already, install Cookiecutter by running:
 
 pip install cookiecutter
 
-## How to Use This Template
-
 ### Step 2: Create a New Repository
 
 To create a new project based on this template, run the following command from your terminal:
