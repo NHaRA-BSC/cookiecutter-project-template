@@ -1,0 +1,24 @@
+# Python
+*.pyc
+*.pyo
+__pycache__/
+*.pdb
+*.log
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# Docker
+Dockerfile
+docker-compose.yml
+
+# Virtual Environment
+venv/
+.env/
+
+# Logs
+logs/
+
+# IDE files
+.vscode/
+.idea/
