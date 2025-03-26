@@ -14,9 +14,10 @@ When you create a new project using this template, the following folder structur
     - raw
     - processed
 - notebooks/: Jupyter notebooks for analysis and experiments.
-- utils/: Utility scripts for preprocessing and other tasks.
 - models/: Folder to store saved models and related outputs.
 - src/: Main source code for your project.
+    - utils/: Utility scripts for preprocessing and other tasks.
+
 - tests/: Unit tests and validation scripts for your project.
 - configs/: Configuration files like YAML or JSON for model settings, hyperparameters, etc.
 - logs/: Logs generated during the project execution.
